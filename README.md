@@ -45,7 +45,7 @@ Além disso, o banco de dados possui operações de **criação**, **alteração
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/projeto-sql-python.git
+    [git clone https://github.com/seu-usuario/projeto-sql-python.git](https://github.com/voldrek/db-operations-manager.git)
     ```
 2. Acesse o banco de dados PostgreSQL ou outro de sua escolha.
 3. Execute os scripts SQL presentes no diretório `sql/` para criar as tabelas e definir as chaves estrangeiras.
